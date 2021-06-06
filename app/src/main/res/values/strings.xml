@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LinkAround</string>
+    <string name="tab_text_1">Profile</string>
+    <string name="tab_text_2">Blue Tooth Devices</string>
+    <string name="tab_text_3">COVID-19</string>
+    <string name="tab_text_4">Recommend Friends</string>
+</resources>
